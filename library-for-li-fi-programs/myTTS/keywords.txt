@@ -1,5 +1,0 @@
-#myTTS library keywords
-
-myTTS KEYWORD1
-speak KEYWORD2
-
