@@ -1,6 +1,0 @@
-#myGsm library keywords
-
-gsmstart KEYWORD1
-sendsms KEYWORD1
-makecall KEYWORD1
-
