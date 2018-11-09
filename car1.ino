@@ -1,7 +1,7 @@
 
 #include <LiquidCrystal.h>
 
-// TRAFFIC LIGHT USING LIFI
+//  TRAFFIC LIGHT USING LIFI
 // AUTHOR: Sumeer Subramanian (sumeer@unixindia.com)
 // Meenakshi Engineering College 
 
